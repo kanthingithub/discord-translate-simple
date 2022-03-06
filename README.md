@@ -1,2 +1,2 @@
-# discord-translate-simple
+# Bot discord - Translator
 The Discord bot uses the Python language with a simple language translation function.
