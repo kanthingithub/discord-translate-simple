@@ -1,7 +1,7 @@
-token = 'OTI5NTM4MzAzODE0OTU5MTk0.YdoyAQ.Oihv3mp250nmnN8-sNARghQ-x2M'
+token = '' #token of discord server
 
-# thư viện => googletrans, discord.py
-# mã ngôn ngữ: https://py-googletrans.readthedocs.io/en/latest/
+# lib => googletrans, discord.py
+# code language: https://py-googletrans.readthedocs.io/en/latest/
 
 from googletrans import Translator
 import discord
